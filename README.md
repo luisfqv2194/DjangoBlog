@@ -13,4 +13,15 @@ Run project
 ```shell script
 foo@bar:~$ python manage.py runserver
 ```
-
+Update DB but does not apply the changes
+```shell script
+foo@bar:~$ python manage.py makemigrations
+```
+Create the tables in the DB
+```shell script
+foo@bar:~$ python manage.py migrate
+```
+Create super user
+```shell script
+foo@bar:~$ python manage.py createsuperuser
+```
