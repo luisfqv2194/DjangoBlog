@@ -1,4 +1,5 @@
 #Django Blog
+This project is written in Django a python framework
 ##Commands
 Create django project
 ```shell script
