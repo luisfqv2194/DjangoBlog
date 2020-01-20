@@ -1,5 +1,9 @@
 # Django Blog
 This project is written in Django a python framework
+## Requisites
+django
+python
+django-crispy-forms
 ## Commands
 Create django project
 ```shell script
