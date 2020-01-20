@@ -4,6 +4,7 @@ This project is written in Django a python framework
 django
 python
 django-crispy-forms
+pillow
 ## Commands
 Create django project
 ```shell script
